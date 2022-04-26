@@ -30,9 +30,9 @@
 
 <details>
   <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgeny3322&langs_count=8&layout=compact" />
+   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgeny3322&langs_count=8&layout=compact" />
     <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=evgeny3322&show_icons=true" />
+    <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=evgeny3322&show_icons=true" />
 </details>
 
 [linkedin]: https://www.linkedin.com/in/evgenu-vladimirov-65b11920a
