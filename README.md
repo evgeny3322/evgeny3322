@@ -12,6 +12,7 @@
 [<img align="left" alt="Evgeny | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Evgeny | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Evgeny | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="Evgeny | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -38,3 +39,4 @@
 [linkedin]: https://www.linkedin.com/in/evgenu-vladimirov-65b11920a
 [instagram]: https://www.instagram.com/evgenuvld/
 [vk]: https://vk.com/id88742482
+[telegram]: https://t.me/evgenuvld
