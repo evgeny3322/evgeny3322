@@ -1,10 +1,7 @@
 ### Hi there 👋, I'm Evgeny
 
 ## I'm a FrontEnd Developer
-- 💪 I like writing code
-- 🎉 I love doing sports
-- 🥅 I am constantly learning new things
-- ⚡ I love to travel
+
 
 ### Connect with me:
 
